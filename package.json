@@ -1,0 +1,16 @@
+{
+  "name": "visa-appointment-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.0.0",
+    "puppeteer": "^14.3.0",
+    "sound-play": "^1.1.0"
+  }
+}
